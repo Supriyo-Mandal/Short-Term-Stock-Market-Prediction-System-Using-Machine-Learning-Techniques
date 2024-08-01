@@ -17,6 +17,8 @@ Our project uses a range of machine learning techniques to predict stock prices.
 - **Random Forest (RF)** 🌲🌲
 - **Artificial Neural Network (ANN)** 🧠
 
+
+
 We discovered that no single model works best for all time horizons. Therefore, we combined these techniques and assigned weightages to each, ensuring more accurate predictions by leveraging the strengths of different models. 🛡️
 
 <div>
@@ -32,6 +34,11 @@ We discovered that no single model works best for all time horizons. Therefore, 
 - **Connectivity:** Flask, Fetch API 🔧
 - **Data Source:** Yahoo Finance 📉
 - **Version Control System:** Git 🛡️
+
+## 📷 Demo
+Here's a brief demonstration of the face recognition system in action:
+
+<img align="center" src="./Demo.gif" alt="GIF Title" width="1000" height="500">
 
 ## 🔄 Data Flow and Methodology
 
