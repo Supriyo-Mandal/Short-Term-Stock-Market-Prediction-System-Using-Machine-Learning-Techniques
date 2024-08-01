@@ -67,10 +67,11 @@ Visualizations play a crucial role in our project, helping users understand the 
 
 ## 👥 Team and Contributions
 
-Our project team consists of enthusiastic individuals committed to leveraging technology for better financial decisions. 🤝 We continuously improve our skills and knowledge to provide a reliable and effective solution.
+Our project team consists of enthusiastic individuals Supriyo Mandal, Shovan Maji, Maitryee Dey committed to leveraging technology for better financial decisions. 🤝 We continuously improve our skills and knowledge to provide a reliable and effective solution.
 
 ## 📝 Conclusion
 
 This project not only represents a technical challenge but also a personal journey towards better understanding the stock market and mitigating investment risks. We hope this system proves to be a valuable tool for all users interested in making data-driven investment decisions. 🌐
 
 Thank you for exploring our project! If you have any questions or feedback, please feel free to reach out. 📧
+Email ID - man.sup121@gmail.com
