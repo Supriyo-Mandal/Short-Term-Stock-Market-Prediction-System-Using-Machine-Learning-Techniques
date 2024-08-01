@@ -38,7 +38,7 @@ We discovered that no single model works best for all time horizons. Therefore, 
 ## 📷 Demo
 Here's a brief demonstration of the face recognition system in action:
 
-<img align="center" src="./Demo.gif" alt="GIF Title" width="1000" height="500">
+<img align="center" src="./Demo Video.gif" alt="GIF Title" width="1000" height="500">
 
 ## 🔄 Data Flow and Methodology
 
