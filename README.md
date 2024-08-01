@@ -36,7 +36,7 @@ We discovered that no single model works best for all time horizons. Therefore, 
 - **Version Control System:** Git 🛡️
 
 ## 📷 Demo
-Here's a brief demonstration of the face recognition system in action:
+Here's a brief demonstration of the Short Term Stock Market Prediction System in action:
 
 <img align="center" src="./Demo Video.gif" alt="GIF Title" width="1000" height="500">
 
